@@ -1,4 +1,6 @@
 # isaacgymEnv_symmetry_humanoid
+Supporting code and data for the paper "Motor Synergy and Energy Efficiency
+Emerge in Whole-body Locomotion Learning"
 ## Install dependencies
 
 * simulator: Isaac Gym https://developer.nvidia.com/isaac-gym
